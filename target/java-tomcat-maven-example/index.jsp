@@ -22,7 +22,7 @@
 	  max-width: 100%;
 	  min-height: 20%;
 	  min-width: 30%;
-	  background-image: url("Jio-Innovative-company.jpg");
+	  background-image: url("sudha.jpg");
 	background-size: contain;
 	background-repeat:no-repeat;
 	}
